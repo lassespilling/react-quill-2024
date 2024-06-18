@@ -1,12 +1,15 @@
 # Changelog
 
-## v2.0.0
+## Next
 
 - Fully ported to TypeScript (#549)
 - Fully React16 compliant (#549)
 - Removed Mixin (#549)
 - Removed Toolbar (#549)
-- Support for React 18 (#793, #822)
+
+## v2.1.0
+
+- Fixed React19 findDomNode error (#980 @wesrog)
 
 ## v1.3.4
 
